@@ -1,0 +1,1 @@
+# any method without self paramerter is concidered a static method
